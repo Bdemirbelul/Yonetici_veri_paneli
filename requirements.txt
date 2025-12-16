@@ -1,1 +1,6 @@
+streamlit>=1.40
+pandas
+requests
 lxml>=6.0.2
+selenium
+webdriver-manager
