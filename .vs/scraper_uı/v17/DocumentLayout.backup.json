@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bdemi\\source\\repos\\scraper_u\u0131\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76058933-90D0-4F8F-8FB3-266FD4AA76BA}|scraper_u\u0131\\scraper_u\u0131.pyproj|C:\\Users\\bdemi\\source\\repos\\scraper_u\u0131\\scraper_u\u0131\\scraper_u\u0131.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76058933-90D0-4F8F-8FB3-266FD4AA76BA}|scraper_u\u0131\\scraper_u\u0131.pyproj|solutionrelative:scraper_u\u0131\\scraper_u\u0131.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scraper_u\u0131.py",
+              "DocumentMoniker": "C:\\Users\\bdemi\\source\\repos\\scraper_u\u0131\\scraper_u\u0131\\scraper_u\u0131.py",
+              "RelativeDocumentMoniker": "scraper_u\u0131\\scraper_u\u0131.py",
+              "ToolTip": "C:\\Users\\bdemi\\source\\repos\\scraper_u\u0131\\scraper_u\u0131\\scraper_u\u0131.py",
+              "RelativeToolTip": "scraper_u\u0131\\scraper_u\u0131.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-16T08:47:29.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
